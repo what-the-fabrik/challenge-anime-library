@@ -10,15 +10,6 @@ Après avoir fait la partie HTML et CSS, vous avez besoin maintenant de dynamise
 > 
 > Prenez du plaisir !
 
-# Planning prévisionnel du challenge (vérifier le discord si ça évolue)
-
-* **21/12/2020** Annonce du challenge (+ explications en vocal)
-* **31/12/2020** La chouille ! BONNE ANNEE
-* **03/01/2021** Etat des lieux des progressions de chacun (vocal)
-* **10/01/2021** Etat des lieux des progressions de chacun (vocal)
-* **15/01/2021 00h00** FIN DU CHALLENGE => On laisse le temps à un ou plusieurs mentors de regarder ce qu'y a été fait
-* **17/01/2021** Commentaires groupés, propositions d'axes d'améliorations sur les différents résultats du challenge par le ou les mentors :-)
-
 # Où trouver les données des animes
 
 On a trouvé une API nommée `Jikan` nous permettant de récupérer les informations d'anime du site `MyAnimeList` :
